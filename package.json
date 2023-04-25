@@ -1,10 +1,17 @@
 {
-  "name": "nest-websocket-template",
+  "name": "nest-socket-template",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Nest.js - Socket.io - Template",
+  "main": "dist/main",
+  "repository": "git@github.com:houseoftypescript/nest-socket-template.git",
+  "author": "hieudoanm <hieumdoan@gmail.com>",
+  "license": "GNU GPL 3.0",
   "private": true,
-  "license": "UNLICENSED",
+  "engines": {
+    "node": "20.0.0",
+    "npm": "9.6.5",
+    "yarn": "1.22.19"
+  },
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
