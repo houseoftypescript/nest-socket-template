@@ -1,0 +1,22 @@
+openapi: 3.0.0
+paths:
+  /health:
+    get:
+      operationId: HealthController_getHealth
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - Health
+info:
+  title: Nest.js - Socket - Template
+  description: Nest.js - Socket - Template
+  version: '1.0'
+  contact: {}
+tags:
+  - name: Socket
+    description: ''
+servers: []
+components:
+  schemas: {}
