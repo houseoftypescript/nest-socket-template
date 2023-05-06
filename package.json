@@ -38,7 +38,7 @@
     "@nestjs/platform-socket.io": "9.4.0",
     "@nestjs/swagger": "6.3.0",
     "@nestjs/websockets": "9.4.0",
-    "helmet": "6.1.5",
+    "helmet": "6.2.0",
     "reflect-metadata": "0.1.13",
     "rxjs": "7.8.1"
   },
